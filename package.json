@@ -37,10 +37,17 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "devDependencies": {
-    "eslint": "^6.8.0",
     "eslint-plugin-react": "^7.19.0"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watercrawler/tic-tac-toe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/watercrawler/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/watercrawler/tic-tac-toe#readme"
 }
